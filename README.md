@@ -1,4 +1,3 @@
-![exp3 diagram](https://github.com/user-attachments/assets/d33acd7f-eb54-4016-a2c2-4af7c4b45ebd)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -66,10 +65,12 @@ Developed by: KUSHMA.S RegisterNumber:24013666
 
 **RTL Schematic**
 
-![exp3 diagram](https://github.com/user-attachments/assets/ae2e98f2-6b91-4e15-8d9a-e42090bef2cc)
+![exp3 diagram](https://github.com/user-attachments/assets/dbcfe11e-a3ec-4b10-bcb3-5a30642b5160)
+
 
 **Output/TIMING Waveform**
 
-![exp3 timing diagram](https://github.com/user-attachments/assets/63d3879a-8283-41b5-8abc-337bd6ac7156)
+![exp3 timing diagram](https://github.com/user-attachments/assets/7b72d6e1-ae80-44c4-b3cb-21dc029eb350)
+
 
 **Result:**
